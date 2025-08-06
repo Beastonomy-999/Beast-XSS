@@ -50,6 +50,3 @@ python3 beast_xss.py --list url_list.txt
 <p align="center">
   <img src="banner.png" alt="BEAST-XSS Logo" width="500px">
 </p>
-
-📜 License
-This project is licensed under the MIT License - see the LICENSE file for details.
