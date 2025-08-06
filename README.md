@@ -28,5 +28,5 @@ python3 main.py --list targets.txt
 
 ## 👑 Acknowledge the Beast.
 <p align="center">
-  <img src="assets/banner.png" width="200px">
+  <img src="assets/banner.png" alt="BEAST-XSS Logo" width="500px">
 </p>
