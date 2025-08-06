@@ -29,9 +29,8 @@ def scan_from_file(file_path, payloads):
 
 def main():
     print("🦴 BEAST XSS - Launching ...")
-    <p align="center">
-  <img src="banner.png" alt="BEAST XSS" width="400px"/>
-</p>
+
+    
     parser = argparse.ArgumentParser(description="BEAST XSS - Advanced XSS Scanner")
     parser.add_argument('--url', help='Scan a single URL for XSS')
     parser.add_argument('--list', help='Scan multiple URLs from a file')
