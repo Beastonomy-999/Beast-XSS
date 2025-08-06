@@ -25,13 +25,16 @@ cd BEAST-XSS
 pip install -r requirements.txt
 
 ## 🚀 Usage
-**Mode A - Scan Single URL**
-```bash
-python3 beast_xss.py --url "https://example.com/search?q=test"
-
-**Mode B - Scan List of URLs from File**
-```bash
-python3 beast_xss.py --list url_list.txt
+🔩 Sample Usage (Screenshot Style)
+bash
+(kali㉿kali)-[~/BEAST-XSS]
+$ python3 main.py --url "http://testphp.vulnweb.com/listproducts.php?cat=1" --payloads payloads/basic.txt
+Launching BEAST XSS …
+or
+bash
+(kali㉿kali)-[~/BEAST-XSS]
+$ python3 main.py --list targets.txt --payloads payloads/dom-based.txt
+Launching BEAST XSS …
 
 ```
 
