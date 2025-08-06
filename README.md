@@ -27,3 +27,6 @@ python3 main.py --list targets.txt
 - Red Teams & Learners
 
 ## 👑 Acknowledge the Beast.
+<p align="center">
+  <img src="assets/banner.png" width="400px">
+</p>
