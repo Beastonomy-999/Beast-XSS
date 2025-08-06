@@ -28,5 +28,5 @@ python3 main.py --list targets.txt
 
 ## 👑 Acknowledge the Beast.
 <p align="center">
-  <img src="assets/banner.png" width="1024px">
+  <img src="assets/banner.png" width="200px">
 </p>
